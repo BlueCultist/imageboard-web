@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "https://dog.ceo",
+  baseURL: "http://localhost:5001",
   timeout: 3000,
   headers: {
     "Content-Type": "application/json"
