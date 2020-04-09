@@ -1,6 +1,6 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-import FirstComponent from "./src/FirstComponent";
+import FirstComponent from "./Components/FirstComponent";
 ReactDOM.render(
   <div>
     <h1>Hello, Welcome to the first page</h1>
